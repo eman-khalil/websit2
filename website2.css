@@ -1,0 +1,378 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    
+}
+
+.divheader
+{
+    
+     position: fixed;
+    margin: -8px;
+    padding:0px;
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    color:black;
+    background-color:white;
+}
+ .divheader h2
+{
+    letter-spacing: 4px;
+     text-transform: uppercase;
+     float:left;
+     margin:10px;
+     padding:5px;
+     font-style: 15px;
+     font-size:20px
+     
+}
+
+.divheader span
+{
+    text-transform: capitalize;
+    font-family: serif;
+    letter-spacing: 1px;
+}
+ .divheader ul
+{
+    list-style: none;
+    float: right;
+    margin:5px;
+   
+}
+ .divheader ul li
+{
+    float :left;
+    padding:10px;
+    margin-top: 4px;
+    margin-right: 50px;
+    font-size:20 px;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+#aa
+{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    background-color: rgb(184, 182, 182);
+    
+}
+
+
+.contain{
+    height: 3010px;
+    width: 1200px;
+    margin-left: 60px;
+    margin-right: 40px;
+    
+    
+    
+}
+.divimg
+{
+
+    margin-top: -5px;
+   /* border: 1px solid black;*/
+    width: 1200px;
+    height: 650px;
+    margin-left: 0px;
+    
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    background-image: url("https://images.pexels.com/photos/540522/pexels-photo-540522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;/*https://static9.depositphotos.com/1584760/1116/i/950/depositphotos_11168998-stock-photo-the-beautiful-bride-against-a.jpg*/
+    background-size: cover;/*https://images.pexels.com/photos/3758759/pexels-photo-3758759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940*/
+
+}
+
+.divimg header
+{
+    padding:300px;
+}
+.divimg mark
+{   color:white;
+    background-color: rgb(54, 54, 54);
+    opacity:1px ;
+    width: 40px;
+    height: 40px;
+
+}
+
+.divheader1
+{
+  
+    
+    margin-left: 0px;
+    padding:0px;
+    width: 1200px;
+    overflow: hidden;
+    height: 50px;
+    color:rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    border-bottom: 1px solid rgb(3, 3, 3);
+    
+}
+.divheader1 div
+{   font-size: 18px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:0px;
+    width: 65%;
+    overflow: hidden;
+    height: 40px;
+    margin-left: 185px;
+    color:white;
+    font-weight: lighter;
+  
+
+  
+    
+}
+
+.divheader1 ul
+{
+    list-style: none;
+    float: right;
+    margin:0px;
+}
+.divheader1 ul li
+{
+    float :left;
+    padding:10px;
+    margin-top: 4px;
+    margin-left: 20px;
+    margin-right: 50px;
+    font-size:20 px;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color:rgb(255, 255, 255);
+}
+
+.projects
+{   margin-top: 5px;
+    margin-left: 0px;
+    padding:0px;
+    width: 1200px;
+    height: 55px;
+    border-bottom: 1px solid rgb(238, 237, 237);
+}
+.projects h3
+{
+    padding-top:20px;
+    
+     
+}
+
+
+
+.divphotos
+{
+    width: 1200px;
+    height: 500px;
+    margin-left: 0px;
+    margin-top: 10px;;
+    
+}
+.divphotos1
+{
+    width: 1200px;
+    height: 250px;
+    margin-left: 0px;
+    margin-top: 10px;
+  
+
+}
+.divphotos2{
+    margin-top:-20px;
+}
+.divphotos1 section div
+{   
+    width: 290px;
+    height: 230px;
+  
+    margin:5px;
+    padding-top: 5px;
+    float:left;
+
+
+}
+.divphotos1 section .photo .text
+{
+    width:155px;
+    height:30px; 
+    background-color: black;
+    margin-top:-5px;
+    margin-left:0px;
+    text-align: center;
+    color:white;
+     
+}
+.divphotos1 section .photo .text h4
+{
+  margin: 5px;
+  font-family: serif;
+  font-size: 15px;
+}
+.divphotos1 section #photo1
+{
+    background-image: url("ee.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo2
+{
+    background-image: url("eman.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo3
+{
+    background-image: url("em.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo4
+{
+    background-image: url("FB_IMG_15839453608553807.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo5
+{
+    background-image: url("aa.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo6
+{
+    background-image: url("https://images.pexels.com/photos/341372/pexels-photo-341372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+}
+.divphotos1 section #photo7
+{
+    background-image: url("FB_IMG_15824953031332318.jpg");
+    background-size: cover;
+}
+.divphotos1 section #photo8
+{
+    background-image: url("FB_IMG_15832565949983516.jpg");
+    background-size: cover;
+}
+.about
+{
+    margin-top: 5px;
+    margin-left: 0px;
+    padding:0px;
+    width: 1200px;
+    height: 70px;
+    font-size: 15px;
+   
+}
+#text #text1 , #text2 ,#text3 ,#text4{
+    height: 210px;
+}
+#text1  header, #text2 header ,#text3 header ,#text4 header
+{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+}
+#text1  h4, #text2 h4 ,#text3 h4 ,#text4 h4
+{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(94, 94, 94);
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+#text1 .contact ,#text2 .contact ,#text3 .contact ,#text4 .contact{
+    width: 290px;
+    height: 30px;
+    background-color: rgba(228, 226, 226, 0.863);
+    margin-left: 0px;
+    text-align: center;
+}
+#text1 .contact:hover ,#text2 .contact:hover ,#text3 .contact:hover ,#text4 .contact:hover{
+    background-color: rgb(143, 142, 142);
+}
+#text1 .contact h3 ,#text2 .contact h3 ,#text3 .contact h3 ,#text4 .contact h3
+{
+    margin-top:1px;
+    margin-left:-10px;
+}
+#inputs
+{
+    height: 310px;
+}
+#inputs .input1,#inputs .input2,#inputs .input3,#inputs .input4
+{
+    display: block;
+    margin: 20px;
+    margin-left:0px;
+    height: 30px;
+    width: 1195px;
+    border-bottom: 1px solid rgb(173, 173, 173);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#inputs .button
+{
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    background-color: black;
+    color:white;
+    border:1px solid black;
+}
+#inputs .button:hover
+{
+    background-color: rgb(207, 206, 206);
+    color:black;
+    border-color: rgb(207, 206, 206);
+}
+
+#lastimg{
+    background:none;
+    background-color: white;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    height: 30px;
+    padding:18px;
+    padding-bottom: 33px;
+    margin-top:-1px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+footer h4
+{
+    margin:10px;
+}
+footer a
+{
+    color:white;
+
+
+}
+footer a:hover{
+    color:green;
+    text-decoration: green;
+    background-color: black;
+}
+
+
+ 
+
+
+
+
+
